@@ -42,7 +42,7 @@ Sentiment Analysis: Amazon Comprehend identifies whether the feedback is positiv
 
 Key Phrase Extraction: Important words and phrases are extracted from the feedback.
 
-Issue Categorization: Python business rules categorize feedback as Refund, Damaged Product, Delivery, Technical Issue, or Other.
+Issue Categorization: business rules categorize feedback as Refund, Damaged Product, Delivery, Technical Issue, or Other.
 
 Priority Assignment: Negative or mixed sentiment is marked as high priority.
 
